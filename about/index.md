@@ -1,20 +1,15 @@
 ---
 layout: page
-title: About the Theme
+title: About Mark
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
 <html>
-<head>
-        <title>Mark's Site </title>
-</head>
 
 <body>
 <div>
-   <h1>Hello! Thank you for visiting my site!</h1>
+   <center>I am a current student at the University of California, Riverside majoring in Computer Science with Business Applications (Graduating June 2019). Most of my projects use C++, but I have been expanding into Python, SQL, and Java. I enjoy learning as much as I can when I can, with the mantra that you should learn something new every day! If you would like to get in contact with me, feel free to email me or connect on LinkedIn. </center>
 </div>
-<div>
-<h3>I am still building the site so I apologize for the mess! Feel free to check out my <a href="https://www.linkedin.com/in/markzemlany">LinkedIn</a> in the meantime.</h3>    
-</div>
+
