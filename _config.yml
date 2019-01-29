@@ -2,9 +2,9 @@
 title:              Mark Zemlany
 bio:                Student, programmer, and constantly curious
 description:        Portfolio site for Mark Zemlany's work. Currently under construction
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/me.png'
+logo:               'assets/img/me2.png'
 background:         'assets/img/bridge.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -20,7 +20,7 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-mathjax:            true
+mathjax:            false
 sass:
   sass_dir:         _sass
   style:            compressed
