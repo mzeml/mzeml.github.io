@@ -4,12 +4,7 @@ title:  "Projects on the way!"
 date:   2019-28-01
 excerpt: "Currently working on adding my projects"
 project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+#tag:
 comments: false
 ---
 
