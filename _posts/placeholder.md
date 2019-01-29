@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Projects on the way!"
 date:   2019-28-01
 excerpt: "Currently working on adding my projects"
