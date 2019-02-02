@@ -1,10 +1,10 @@
 ---
-layout: project
+layout: post
 title:  "Projects on the way!"
-#date:   2019-01-28
+date:   2019-01-28
 excerpt: "Currently working on adding my projects"
 project: true
-#tag:
+tag:
 comments: false
 ---
 

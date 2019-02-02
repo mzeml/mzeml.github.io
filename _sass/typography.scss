@@ -98,7 +98,8 @@ a {
   	color: $color_tuatara;
   }
   &:hover {
-  	color: $red;
+	// was $red
+  	color: $blue;
   }
   &:active {
   	transition: color .3s;
