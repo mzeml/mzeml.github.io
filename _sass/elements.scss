@@ -56,7 +56,8 @@
       }
       &:hover {
         background-color: $white;
-        color: $danger;
+        color: $info;
+        // was $danger
       }
     }
     &.btn-info {
