@@ -9,5 +9,4 @@ comments: false
 ---
 ##Ocular Echo
 
-Still under construction... [see the GitHub repo for now](https://github.com/mzeml/Ocular-Echo)
 
