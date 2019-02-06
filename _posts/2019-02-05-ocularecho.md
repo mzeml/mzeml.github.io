@@ -7,7 +7,7 @@ project: true
 tag:
 comments: false
 ---
-#Ocular Echo
+##Ocular Echo
 
-Still under construction...[see the GitHub repo for now](https://github.com/mzeml/Ocular-Echo)
+Still under construction... [see the GitHub repo for now](https://github.com/mzeml/Ocular-Echo)
 
