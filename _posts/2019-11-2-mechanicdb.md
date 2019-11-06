@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mechanic Shop SQL Database"
-date:   2019-11-5
+date:   2019-11-2
 excerpt: "A SQL database project for a class"
 project: true
 tag:
